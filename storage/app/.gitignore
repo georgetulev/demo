@@ -1,4 +1,4 @@
 *
 !public/
-!conversations/
+!conversations/**
 !.gitignore
